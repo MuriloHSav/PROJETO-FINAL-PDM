@@ -141,4 +141,5 @@ As principais "ferramentas" que este projeto usa são:
 
 | Nome   | Rgm       | 
 | :---------- | :--------- | 
-| `Thiago Germano `      | `30001951` | 
+| `Thiago Germano `      | `30001951` |
+| `Murilo Henrique`      | `30466261` |
