@@ -17,16 +17,6 @@ O Task Master é um app Flutter super bacana e fácil de usar, feito para te aju
 
 Este guia vai te mostrar o passo a passo para colocar o Task Master a funcionar no seu computador com Ubuntu Linux. Vem comigo!
 
-### O Que Você Vai Precisar
-
-Antes de começar, dá uma olhada se o seu sistema tem isso aqui:
-
-- **Sistema Operacional:** Ubuntu 22.04 LTS pra cima, ou Debian 11 pra cima (com arquitetura x86_64).
-- **Espaço no Disco:** Pelo menos 2.5 GB livres para o Flutter e as ferramentas. Não é muito, mas precisa!
-- **Memória RAM:** Uns 4GB no mínimo, mas 8GB é muito, muito melhor para desenvolver.
-- **Internet:** Claro, pra baixar o Flutter e tudo o que precisa.
-- **Permissões de Administrador:** Você vai precisar do sudo para instalar algumas coisas no sistema.
-
 
 ### 1. Pegar as Dependências do Projeto
 
