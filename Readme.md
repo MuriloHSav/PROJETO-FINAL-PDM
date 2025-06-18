@@ -10,7 +10,7 @@ O Task Master é um app Flutter super bacana e fácil de usar, feito para te aju
 - **Arrumar do Seu Jeito:** Organize suas tarefas por quando as criou (mais antigas ou recentes), pelo prazo (mais cedo ou mais tarde) ou até pelo título (A-Z ou Z-A). Você manda!
 - **Temas que Combinam:** Mude entre o modo claro e o escuro, para que o app fique do jeito que você gosta. Confortável, né?
 - **Suas Estatísticas:** Dê uma olhada no seu progresso geral com um gráfico divertido que mostra o que já está feito e o que falta. Motivação pura!
-- **Mexer é Simples:** Deslize (tipo swipe!) para apagar ou editar tarefas num piscar de olhos. Ah, e funciona que é uma beleza!
+- **Mexer é Simples:** Deslize (tipo swipe!) para apagar ou editar tarefas num piscar de olhos.
 - **Animações Suaves:** Curta as transições e efeitos visuais que deixam o app ainda mais agradável de usar. É um show!
 
 ## ⚙️ Bora Rodar o Projeto (no Ubuntu Linux)!
